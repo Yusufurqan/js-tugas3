@@ -1,0 +1,14 @@
+p{
+	display: none;	
+}
+
+
+button{
+	background-color: yellow;
+	color:  red;
+}
+
+img:hover{
+
+	transform: scale(1.1);
+}
